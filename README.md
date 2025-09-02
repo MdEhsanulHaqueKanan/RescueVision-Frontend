@@ -9,11 +9,14 @@
 
 **RescueVision** is a sophisticated, web-based command center designed to accelerate search and rescue (SAR) operations by leveraging the power of Artificial Intelligence. This Minimum Viable Product (MVP) serves as an **after-action review and intelligence gathering tool**, allowing operators to rapidly analyze hours of aerial drone footage and pinpoint critical events.
 
-### **➡️ [View the AI Backend (Python, PyTorch, YOLOv8, RAG) Here](https://github.com/MdEhsanulHaqueKanan/rescue-vision-project)**
-
 <p align="center">
   <img src="./assets/RescueVision_demo.gif" alt="RescueVision AI Command Center Demo" width="900"/>
 </p>
+
+### Final Application Screenshot
+![RescueVision Screenshot](./assets/RescueVision.png)
+
+###### **➡️ [View the AI Backend (Python, PyTorch, YOLOv8, RAG) Here](https://github.com/MdEhsanulHaqueKanan/rescue-vision-project)**
 
 The platform fuses two powerful AI capabilities into a single, intuitive interface:
 1.  **AI-Powered Video Analysis:** A custom-trained deep learning model automatically scans drone videos to detect and log every instance of a potential survivor.
